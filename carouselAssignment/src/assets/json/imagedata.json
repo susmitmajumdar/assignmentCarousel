@@ -1,0 +1,22 @@
+[
+  {
+  "url":"assets/images/home1.jpg",
+  "name":"home1",
+  "caption":"Home 1"
+  },
+  {
+    "url":"assets/images/home2.jpg",
+    "name":"home2",
+    "caption":"Home 2"
+  },
+  {
+    "url":"assets/images/home3.jpg",
+    "name":"home3",
+    "caption":"Home 3"
+  },
+  {
+    "url":"assets/images/home4.jpg",
+    "name":"home4",
+    "caption":"Home 4"
+  }
+]
